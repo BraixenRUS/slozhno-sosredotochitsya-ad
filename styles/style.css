@@ -34,7 +34,7 @@
 .header__theme-menu-button {
   box-sizing: border-box;
   border: 1px solid transparent;
-  padding: 1px 12px 5px 12px;
+  padding: 1px 12.4px 5px 12.4px;
   font-size: 18px;
   line-height: 18px;
   text-transform: lowercase;
@@ -61,7 +61,7 @@
 }
 
 .title-decor {
-  margin: 20px 0 10px 0;
+  margin: 20px 0 10.5px 0;
   color: var(--bg-color);
   font-weight: 700;
   font-size: 18px;
@@ -70,7 +70,7 @@
 }
 
 .title-decor-header {
-  margin: 10px 0 10px 0;
+  margin: 10px 0 10.5px 0;
   color: var(--bg-color);
   font-weight: 700;
   font-size: 18px;
@@ -138,7 +138,7 @@
   }
   
   .header__subtitle {
-    line-height: 23px;
+    line-height: 23.4px;
     width: 384px;
   }
 }
@@ -153,7 +153,7 @@
   }
 
   .header__subtitle {
-    line-height: 24px;
+    line-height: 23.7px;
     width: 491px;
   }
 
@@ -197,7 +197,7 @@
 .section-title {
   color: var(--color-section-title);
   font-size: 18px;
-  line-height: 23px;
+  line-height: 23.4px;
 }
 
 .links {
@@ -209,7 +209,7 @@
   margin: 10px 0 20px 0;
   font-weight: 400;
   font-size: 18px;
-  line-height: 23px;
+  line-height: 23.4px;
 }
 
 .what__title {
@@ -235,11 +235,11 @@ h4.title-decor {
   }
   
   .what__title {
-    max-width: 236px;
+    max-width: 355px;
   }
   
   .how__title {
-    margin: 0;
+    margin: 20px 0 0 0;
   }
   
   .section-advice {

@@ -128,7 +128,7 @@
 
 @media (min-width: 768px) {
   .header {
-    padding: 15px;
+    padding: 20px;
   }
   
   .header__title {
@@ -139,7 +139,7 @@
   
   .header__subtitle {
     line-height: 23.4px;
-    width: 50%;
+    width: 384px;
   }
 }
 
@@ -213,12 +213,12 @@
 }
 
 .what__title {
-  max-width: 236px;
+  max-width: 355px;
   margin-bottom: 20px;
 }
 
 .how__title {
-  margin: 0;
+  margin: 21px 0 0 0;
 }
 
 h4.title-decor {
@@ -227,15 +227,15 @@ h4.title-decor {
 
 @media (min-width: 768px) {
   .content {
-    margin: 0 15px;
+    margin: 0 20px;
   }
   
   .section {
-    margin: 50px 0 65px 0;
+    margin: 60px 0 80px 0;
   }
   
   .what__title {
-    max-width: 295px;
+    max-width: 355px;
   }
   
   .how__title {
@@ -325,11 +325,11 @@ h4.title-decor {
 
 @media (min-width: 768px) {
   .section-gallery {
-    margin-block-end: 50px;
+    margin-block-end: 60px;
   }
   
   .art.title-decor {
-    margin-block: 20px 15px;
+    margin-block: 20px 20px;
   }
   
   .art__gallery {
@@ -405,7 +405,7 @@ h4.title-decor {
 
 @media (min-width: 768px) {
   .footer {
-    padding: 15px;
+    padding: 20px;
   }
   
   .footer__title {
